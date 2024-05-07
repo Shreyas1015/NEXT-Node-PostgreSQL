@@ -1,0 +1,12 @@
+node_modules
+npm-debug.log
+.DS_Store
+
+# dotenv environment variables file
+.env
+
+# Express server build output
+/dist
+
+# Typescript build output
+/build
